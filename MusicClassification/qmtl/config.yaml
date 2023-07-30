@@ -1,0 +1,15 @@
+# basic training options
+batch_size: 5
+iter: 101
+val_iter: 1
+save_iter: 1
+
+# main fixed options
+dataset_name_1: q1
+dataset_name_2: q2
+device: cuda
+
+# dataset options
+input_length: 7000
+
+# optimizer args

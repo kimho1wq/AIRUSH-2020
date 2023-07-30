@@ -1,0 +1,12 @@
+# basic training options
+batch_size: 20
+iter: 501
+val_iter: 5
+save_iter: 5
+
+# main fixed options
+dataset_name: q3
+device: cuda
+
+# dataset options
+input_length: 7000
